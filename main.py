@@ -31,8 +31,6 @@ def filter_all_files(folder_path):
             pass
          move_file(filename, folder_path, '{}/.{}'.format(folder_path, get_file_type(filename)))
 
-   print("Files moved sucessfully!")
-
 
 folder_path = input("Type the folder location: ")
 try:
