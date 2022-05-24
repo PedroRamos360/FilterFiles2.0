@@ -11,4 +11,4 @@ it is more efficient and has new features, the main differences are:
 - The folders where the files are put on don't need to be pre-created, the program does it automatically
 
 ## Link to download:
-- https://drive.google.com/file/d/1tE9wFjrfYCSA7E0NvC4zVQBGlCzSB-T5/view?usp=sharing
+Go to the [releases](https://github.com/PedroRamos360/FilterFiles2.0/releases/latest) tab.
